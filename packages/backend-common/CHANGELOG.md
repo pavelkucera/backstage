@@ -1,5 +1,11 @@
 # @backstage/backend-common
 
+## 0.5.4
+
+### Patch Changes
+
+- 16fb1d03a: pass registered logger to requestLoggingHandler
+
 ## 0.5.3
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # @backstage/core
 
+## 0.6.2
+
+### Patch Changes
+
+- 07e226872: Export Select component
+- f62e7abe5: Make sure that SidebarItems are also active when on sub route.
+
 ## 0.6.1
 
 ### Patch Changes
